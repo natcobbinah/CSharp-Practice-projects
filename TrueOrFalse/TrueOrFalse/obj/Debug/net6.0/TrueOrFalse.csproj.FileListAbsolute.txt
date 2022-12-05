@@ -1,0 +1,15 @@
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net6.0\TrueOrFalse.exe
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net6.0\TrueOrFalse.deps.json
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net6.0\TrueOrFalse.runtimeconfig.json
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net6.0\TrueOrFalse.dll
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\bin\Debug\net6.0\TrueOrFalse.pdb
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.csproj.AssemblyReference.cache
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.AssemblyInfo.cs
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.dll
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\refint\TrueOrFalse.dll
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.pdb
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\TrueOrFalse.genruntimeconfig.cache
+C:\Users\nah\source\repos\TrueOrFalse\TrueOrFalse\obj\Debug\net6.0\ref\TrueOrFalse.dll
